@@ -1,0 +1,19 @@
+{
+  "name": "xu-docker",
+  "version": "1.0.2",
+  "description": "web端docker容器化开发脚本",
+  "bin": {
+    "xu-docker": "bin/xu-up.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xujiazheng/xu-docker.git"
+  },
+  "keywords": ["docker", "webpack", "前端"],
+  "author": "xujiazheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xujiazheng/xu-docker/issues"
+  },
+  "homepage": "https://github.com/xujiazheng/xu-docker#readme"
+}
